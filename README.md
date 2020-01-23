@@ -1,4 +1,4 @@
-# web-scraping-challenge
+# Web scraping
 Step 1 - Scraping
 Complete your initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
 
